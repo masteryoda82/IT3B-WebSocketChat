@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Zprávy:" Background="Aqua" HorizontalAlignment="Left" Margin="42,63,0,0" VerticalAlignment="Top" Width="57" Height="32"/>
-        <Label Content="Random Zpráva" Background="Aqua" HorizontalAlignment="Left" Margin="99,63,0,0" VerticalAlignment="Top" Height="206" Width="388"/>
+        <Label Content="Zprávy klientů:" Background="Aqua" HorizontalAlignment="Left" Margin="10,63,0,0" VerticalAlignment="Top" Width="89" Height="32"/>
+        <Label Content="Random Zpráva" Background="DarkKhaki" HorizontalAlignment="Left" Margin="99,63,0,0" VerticalAlignment="Top" Height="281" Width="388"/>
         <Label Content="Stav klientů:" Background="BlanchedAlmond" HorizontalAlignment="Left" Margin="606,60,0,0" VerticalAlignment="Top" Width="154"/>
-        <Label Content="Random klient" Background="BlanchedAlmond" HorizontalAlignment="Left" Margin="606,86,0,0" VerticalAlignment="Top" Width="154" Height="303"/>
+        <Label Content="Random klient" Background="Sienna" HorizontalAlignment="Left" Margin="606,86,0,0" VerticalAlignment="Top" Width="154" Height="303" Foreground="Black"/>
 
     </Grid>
 </Window>
